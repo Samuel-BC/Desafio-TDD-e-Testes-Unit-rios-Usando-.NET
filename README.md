@@ -6,4 +6,4 @@ Aplicação console com métodos de uma calculadora e testes utilizando XUnit:
 + Subtraindo 
 + Multiplicando
 + E Dividindo números;
-+ + Histórico das últimas três operações.
++ "+" Histórico das últimas três operações.
