@@ -2,8 +2,8 @@
 
 Aplicação console com métodos de uma calculadora e testes utilizando XUnit:
 
-Somando 
-Subtraindo 
-Multiplicando
-E Dividindo números;
++ Somando 
++ Subtraindo 
++ Multiplicando
++ E Dividindo números;
 + Histórico das últimas três operações.
